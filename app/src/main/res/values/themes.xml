@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SmartWaterTracker" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/water_blue_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/water_blue_accent</item>
+        <item name="android:windowBackground">@color/background_light</item>
+    </style>
+
+    <style name="Theme.SmartWaterTracker" parent="Base.Theme.SmartWaterTracker" />
+</resources>

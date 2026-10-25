@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Water Tracker</string>
+    <string name="hydration_message">Stay Hydrated, Stay Healthy!</string>
+    <string name="today_intake_title">Today\'s Water Intake</string>
+    <string name="default_intake">0 / 2000 ml</string>
+    <string name="default_percentage">0%</string>
+    <string name="add_250_ml">+ 250 ml</string>
+    <string name="add_500_ml">+ 500 ml</string>
+    <string name="reset_intake">Reset Today\'s Intake</string>
+    <string name="reminder_switch_label">Water Reminders</string>
+    <string name="reminder_status_disabled">Reminders Disabled</string>
+    <string name="reminder_status_enabled">Reminders Enabled (Every 2 Hours)</string>
+    <string name="quick_add_title">Quick Add Water</string>
+    <string name="settings_title">Reminder Settings</string>
+    <string name="change_goal">Set Daily Goal</string>
+    <string name="status_start">Start drinking water to reach your daily goal!</string>
+    <string name="intake_format">%1$d / %2$d ml</string>
+    <string name="percentage_format">%1$d%%</string>
+</resources>
